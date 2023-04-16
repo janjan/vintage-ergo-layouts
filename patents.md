@@ -52,3 +52,20 @@ Images: None (because it is not a layout)
 [Espacenet](https://worldwide.espacenet.com/patent/search/family/021760836/publication/US1672354A?q=pn%3DUS1672354A)
 
 ![From page 5](files/patents/US1672354A_001.png)
+
+
+
+### 1926 US1652464A - Typewriter keyboard
+
+**Authors**: Oluf Tyberg **Submission**: 1926-02-08 **Published**: 1927-12-13
+
+**Claims**: TODO
+
+**Notes**: Even though this is an orthogonal layout this is due to technological nature and not for better ergonomics
+
+[PDF](files/patents/US1652464A.pdf) -
+[Google Patents](https://patents.google.com/patent/US1652464A/) -
+[FreePatentsOnline](https://www.freepatentsonline.com/1652464.html) -
+[Espacenet](https://worldwide.espacenet.com/patent/search/family/022201098/publication/US1652464A?q=pn%3DUS1652464A)
+
+![From page 1](files/patents/US1652464A_001.png)
