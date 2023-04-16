@@ -38,4 +38,17 @@ Images: None (because it is not a layout)
 ![From page 3](files/patents/US1598028A_001.png)
 
 
+### 1925 US1672354A - Power typewriter \ 
 
+**Authors**: Oluf Tyberg **Submission**: 1925-03-06 **Published**: 1928-06-05
+
+**Claims**: TODO
+
+**Notes**: Even though this is an orthogonal layout this is due to technological nature and not for better ergonomics
+
+[PDF](files/patents/US1672354A.pdf) -
+[Google Patents](https://patents.google.com/patent/US1672354A/) -
+[FreePatentsOnline](https://www.freepatentsonline.com/1672354.html) -
+[Espacenet](https://worldwide.espacenet.com/patent/search/family/021760836/publication/US1672354A?q=pn%3DUS1672354A)
+
+![From page 5](files/patents/US1672354A_001.png)
