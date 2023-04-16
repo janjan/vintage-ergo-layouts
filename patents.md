@@ -21,4 +21,22 @@
 Images: None (because it is not a layout)
 
 
+### 1922 US1598028A - Typewriter movement 
+
+**Authors**: Oluf Tyberg **Submission**: 1922-05-29 **Published**: 1926-08-31
+
+**Claims**: TODO
+
+**Notes**: Even though this is an orthogonal layout this is due to technological nature and not for better ergonomics
+
+[PDF](files/patents/US1598028A.pdf)
+
+[Google Scholar](https://patents.google.com/patent/US1598028A/)
+[FreePatentsOnline](https://www.freepatentsonline.com/1652464.html)
+[Espacenet](https://worldwide.espacenet.com/patent/search/family/024255314/publication/US1598028A?q=pn%3DUS1598028A)
+
+Images: 
+
+![From page 3](files/patents/US1598028A_001.png)
+
 
