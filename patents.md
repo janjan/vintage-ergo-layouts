@@ -2,6 +2,31 @@
 
 ## Notes
 
+### How to find relevant patents
+
+The easiest way is to go to (Google Patents)[https://patents.google.com/] and search for stuff like 'ergonomic keyboard'.
+
+If you already have a patent and you want to find 
+
+Patents are classified by categories. one category which contains typing layouts is (B41J5/10)[https://patents.google.com/?q=(B41J5%2f10)&sort=old]. You can search for patents of such type in Google Patents.
+
+The whole list of patent classifications for typewriters can be found here:
+
+https://www.uspto.gov/web/patents/classification/cpc/html/cpc-B41J.html#B41J5/00
+
+The whole list of patent classifications for computers can be found here:
+
+https://www.uspto.gov/web/patents/classification/cpc/html/cpc-G06F.html#G06F3/00
+
+If you have a patent and you want to figure out if there are newer patents which references it you can go to Google Patents or Free Patents Online and look it up
+
+A lot of patents related to keyboards can be found here:
+
+* https://deskthority.net/wiki/Keyboard_patents
+
+* https://deskthority.net/wiki/Orthogonal_input_keyboards#cite_note-1
+
+
 ## Patents
 
 ### 1898 US637334A - Type-writing machine
