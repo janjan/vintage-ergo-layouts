@@ -38,7 +38,7 @@ Images: None (because it is not a layout)
 ![From page 3](files/patents/US1598028A_001.png)
 
 
-### 1925 US1672354A - Power typewriter \ 
+### 1925 US1672354A - Power typewriter
 
 **Authors**: Oluf Tyberg **Submission**: 1925-03-06 **Published**: 1928-06-05
 
