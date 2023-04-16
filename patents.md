@@ -59,9 +59,11 @@ Images: None (because it is not a layout)
 
 **Authors**: Oluf Tyberg **Submission**: 1926-02-08 **Published**: 1927-12-13
 
-**Claims**: TODO
+**Claims**: "One object of this invention is to construct a keyboard in such a manner that all the automatic motions ot a machine of this nature can be controlled by the operator **with the least possible motion of the hands**.
 
-**Notes**: Even though this is an orthogonal layout this is due to technological nature and not for better ergonomics
+Another object is embodied in a new and useful grouping of the printing-keys, that will make their operation by touch easier to master, and which will generally **tend to improve both speed and accuracy**."
+
+**Notes**: In contrast to his earlier patents related to this layout this is the first time he specifically mentions ergonomics as a reason for this layout
 
 [PDF](files/patents/US1652464A.pdf) -
 [Google Patents](https://patents.google.com/patent/US1652464A/) -
