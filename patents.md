@@ -73,7 +73,7 @@ Images: None (because it is not a layout)
 
 **Claims**: TODO
 
-**Notes**: I am not sure if this counts like some sort of ergonomic keyboard just yet. Oskar Fischer had a lot more patents about typewriters later in his life and those look more like ergonomic typewriters. Scrow down this list to see more of his work
+**Notes**: I am not sure if this counts like some sort of ergonomic keyboard just yet. Oskar Fischer had a lot more patents about typewriters later in his life and those look more like ergonomic typewriters. Scrow down this list to see more of his work, e.g. US1553765A
 
 [PDF](files/patents/US1083076A.pdf) -
 [Google Patents](https://patents.google.com/patent/US1083076A/en) -
@@ -124,6 +124,21 @@ The novel arrangement of the keys is of great advantage from a hygienic point of
 ![From page 1](files/patents/US1598028A_002.png)
 
 ![From page 3](files/patents/US1598028A_001.png)
+
+### 1924 US1553765A - Typewriting machine  
+
+**Authors**: Fischer Oskar **Submission**: 1924-01-25 **Published**: 1925-09-15
+
+**Claims**: TODO
+
+**Notes**: This is not the first of his patents with this sort of keyboard. There is a much earlier one which looks similar, see US1083076A
+
+[PDF](files/patents/US1553765A.pdf) -
+[Google Patents](https://patents.google.com/patent/US1553765A/en) -
+[FreePatentsOnline](https://www.freepatentsonline.com/1553765.html) -
+[Espacenet](https://worldwide.espacenet.com/patent/search?q=pn%3DUS1553765A)
+
+![From page 2](files/patents/US1553765A_001.png)
 
 
 ### 1925 US1672354A - Power typewriter
