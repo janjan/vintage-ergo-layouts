@@ -96,3 +96,18 @@ Another object is embodied in a new and useful grouping of the printing-keys, th
 [Espacenet](https://worldwide.espacenet.com/patent/search/family/022201098/publication/US1652464A?q=pn%3DUS1652464A)
 
 ![From page 1](files/patents/US1652464A_001.png)
+
+
+### 1994 US5476332A - Symmetrical keyboard apparatus 
+
+**Authors**: Ralph H. Cleveland, Jr. **Submission**: 1994-05-31 **Published**: 1995-12-19
+
+**Claims**: "A symmetrical keyboard for computers, [...] wherein five rows of transverse keys are positioned and oriented in order to allow a user to **move his or her left hand in a natural way** that does not require unnatural "crabbing" (i.e. upward to the left and downward to the right) motions from the user's left hand."
+
+**Notes**: TODO
+
+[PDF](files/patents/US5476332A.pdf) -
+[Google Patents](https://patents.google.com/patent/US5476332A/) -
+[Espacenet](https://worldwide.espacenet.com/patent/search/family/022951393/publication/US5476332A?q=pn%3DUS5476332A)
+
+![From page 3](files/patents/US5476332A_001.png)
