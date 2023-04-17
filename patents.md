@@ -196,6 +196,23 @@ Another object is embodied in a new and useful grouping of the printing-keys, th
 
 ## 1990
 
+### 1992 - WO1993007738A2 US5716149A US5971636A - Ergonomically improved standard keyboard 
+
+**Authors**: John Mensick **Submission**: 1992-10-22 **Published**: 1993-04-29
+
+**Claims**: "An approach to keyboard development is described which integrates ergonomic modification with the psychological resistance to changing existing, familiar keyboard designs."
+
+**Notes**: This is a neat modification of the standard row staggered layout
+
+(this is 3 different patens covering 1992 to 1999, The world patent is the earliest, the other two are later)
+
+[PDF](files/patents/US5971636A.pdf) -
+[Google Patents](https://patents.google.com/patent/WO1993007738A2/en) -
+[FreePatentsOnline](https://www.freepatentsonline.com/5971636.html) -
+[Espacenet](https://worldwide.espacenet.com/patent/search/family/026725265/publication/US5971636A?q=pn%3DUS5971636A)
+
+![From page 3](files/patents/US5971636A_001.png)
+
 
 ### 1994 US5476332A - Symmetrical keyboard apparatus 
 
