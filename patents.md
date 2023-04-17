@@ -177,6 +177,21 @@ Another object is embodied in a new and useful grouping of the printing-keys, th
 
 ## 1930
 
+### 1932 US2040248A - Typewriter keyboard 
+
+**Authors**: Dvorak August, William L Dealey **Submission**: 1932-05-21 **Published**: 1936-05-12
+
+**Claims**: This is the patent for the Dvorak layout
+
+**Notes**: Todo
+
+[PDF](files/patents/US2040248A.pdf) -
+[Google Patents](https://patents.google.com/patent/US2040248A/en) -
+[FreePatentsOnline](https://www.freepatentsonline.com/2040248.html) -
+[Espacenet](https://worldwide.espacenet.com/patent/search/family/024454455/publication/US2040248A?q=pn%3DUS2040248A)
+
+![From page 1](files/patents/US2040248A_001.png)
+
 ## 1940
 
 ## 1950
