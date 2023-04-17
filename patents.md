@@ -152,6 +152,27 @@ Another object is embodied in a new and useful grouping of the printing-keys, th
 
 ## 1960
 
+### 1963 DE1279693B / GB1016993A - In zwei spiegelbildliche Felder unterteilte Normentastatur
+
+**Authors**: Jim Ladue, Werner Seydel **Company**: IBM **Submission**: 1963-09-28 **Published**: 1968-10-10
+
+**Claims**: TODO
+
+**Notes**: TODO
+
+[PDF DE](files/patents/DE1279693B.pdf) -
+[Google Patents DE](https://patents.google.com/patent/DE1279693B/) -
+[Espacenet DE](https://worldwide.espacenet.com/patent/search/family/007201828/publication/DE1279693B?q=pn%3DDE1279693B)
+
+[PDF GB](files/patents/GB1016993A.pdf) -
+[Google Patents GB](https://patents.google.com/patent/GB1016993A/) -
+[Espacenet GB](https://worldwide.espacenet.com/patent/search/family/007201828/publication/GB1016993A?q=pn%3DGB1016993A)
+
+![From page 5](files/patents/DE1279693B_001.png)
+
+![From page 8 and 9](files/patents/DE1279693B_002.png)
+
+
 ## 1970
 
 ## 1980
