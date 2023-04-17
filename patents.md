@@ -50,6 +50,29 @@ Images: None (because it is not a layout)
 
 ## 1910
 
+### 1914 US1138474A - Type-writing machine
+
+**Authors**: Fritz Heidner **Submission**: 1914-03-18 **Published**: 1915-05-04
+
+**Claims**: "This invention relates to improvements in the keyboards and key levers of typewriting machines, my object being to enable the operator to obtain a better View of the keys and to write with greater ease, in a less cramped position than ordinarily.
+
+[...]
+
+The novel arrangement of the keys is of great advantage from a hygienic point of view, as the forearms have no longer to be held in a more or less constrained position against the body, but remain perfectly free, so that the chest can be normally expanded. Moreover, owing to the parallel disposition of the forearms, the hands have not to be twisted outward to the same extent as for merly has been the case, and there being thus much less strain upon the abducent muscles, writing is rendered considerably less fatiguing."
+
+**Notes**: TODO
+
+[PDF](files/patents/US1138474A.pdf) -
+[Google Patents](https://patents.google.com/patent/US1138474A/en) -
+[FreePatentsOnline](https://www.freepatentsonline.com/1138474.html) -
+[Espacenet](https://worldwide.espacenet.com/patent/search/family/003206571/publication/US1138474A?q=pn%3DUS1138474A)
+
+![From page 1](files/patents/US1138474A_001.png)
+
+![From page 1](files/patents/US1138474A_002.png)
+
+![From page 1](files/patents/US1138474A_003.png)
+
 ## 1920
 
 ### 1922 US1598028A - Typewriter movement 
