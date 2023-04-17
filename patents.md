@@ -198,6 +198,21 @@ Another object is embodied in a new and useful grouping of the printing-keys, th
 
 ## 1950
 
+### 1953 - US2727689A - Ten digit keyboard for calculating machine  
+
+**Authors**: Heindorff Hans **Submission**: 1953-01-21 **Published**: 1955-12-20
+
+**Claims**: "It is an object of the present invention to arrange the keys in such a manner that free and unconstrained selective operation is possible by the right or left hand from the same initial position of the hand **corresponding to the natural movements of the fingers** with a high degree of safety and with a minimum of effort."
+
+**Notes**: Entering numbers in an ergonomic way!
+
+[PDF](files/patents/US2727689A.pdf) -
+[Google Patents](https://patents.google.com/patent/US2727689A/en) -
+[FreePatentsOnline](https://www.freepatentsonline.com/2727689.html) -
+[Espacenet](https://worldwide.espacenet.com/patent/search/family/007997302/publication/US2727689A?q=pn%3DUS2727689A)
+
+![From page 1](files/patents/US2727689A_001.png)
+
 ## 1960
 
 ### 1963 - DE1279693B / GB1016993A - In zwei spiegelbildliche Felder unterteilte Normentastatur
