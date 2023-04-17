@@ -2,17 +2,56 @@ https://priorart.ip.com/IPCOM/000067608 IBM Contoured Keyboard
 https://priorart.ip.com/IPCOM/000089774 IBM Curved keyboard
 https://priorart.ip.com/IPCOM/000075287 IBM input keyboard
 
+1916 https://worldwide.espacenet.com/patent/search/family/000561342/publication/DE308048C?q=pn%3DDE308048C
+1920 https://www.freepatentsonline.com/1336151.pdf
+1923 https://patents.google.com/patent/GB213485A/en?oq=GB213485A
+1924 https://www.freepatentsonline.com/1492548.pdf
+1929 https://patents.google.com/patent/DE488275C/de?oq=DE488275C
+1929 https://patents.google.com/patent/DE577708C/en?oq=GB332476A
+1929 https://patents.google.com/patent/GB332476A/en?oq=GB332476A
+1930 https://patents.google.com/patent/DE552611C/en?oq=GB332476A
+1931 https://patents.google.com/patent/GB332476A/en?oq=GB332476A
+1932 https://patents.google.com/patent/DE577549C/de?oq=DE577549C
+1934 https://patents.google.com/patent/CH174678A/en?oq=GB332476A
+1935 https://patents.google.com/patent/US2053874A/en?oq=GB332476A
+1939 https://www.freepatentsonline.com/2232684.pdf
+1940 https://patents.google.com/patent/US2318519A/en?oq=GB332476A
+1955 https://patents.google.com/patent/DE1034663B/de?oq=DE1034663B
+1958 https://worldwide.espacenet.com/patent/search/family/007429706/publication/DE1106342B?q=pn%3DDE1106342B
+1961 https://patents.google.com/patent/CH390957A/de?oq=CH390957A
+1963 https://patents.google.com/patent/DE1255117B/de?oq=DE1255117B
+1963 https://patents.google.com/patent/DE1255117B/en?oq=GB332476A
+1969 https://patents.google.com/patent/US3698532A/en?oq=GB332476A
+1972 https://patents.google.com/patent/DE2218065A1/en?oq=GB332476A
+1976 https://patents.google.com/patent/DE2607126A1/en?oq=GB332476A
+1976 https://www.freepatentsonline.com/3990565.pdf
+1977 https://patents.google.com/patent/DE2725677A1/en?oq=GB332476A
 1978 https://patents.google.com/patent/US4211497A
+1978 https://patents.google.com/patent/US4244659A/en?oq=US4244659A
+1980 https://patents.google.com/patent/GB2041295A/en?oq=GB332476A
+1981 https://patents.google.com/patent/US4378553A/en?oq=GB332476A
+1984 https://worldwide.espacenet.com/patent/search/family/016771458/publication/JPS61100860A?q=pn%3DJPS61100860A NEC
 1984 https://www.freepatentsonline.com/4661005.html Splittable keyboard for word processing, typing and other information input systems 
+1985 https://patents.google.com/patent/FR2579137A1/en?oq=FR2579137A1
 1985 https://patents.google.com/patent/GB2181096A/en?oq=US556422A maltron keyboard
+1985 https://worldwide.espacenet.com/patent/search/family/009317436/publication/FR2579137A1?q=pn%3DFR2579137A1
 1986 https://patents.google.com/patent/GB2189195A/en?oq=GB2189195A Separable keyboard for computer; key with alterable liquid crystal display 
+1987 https://patents.google.com/patent/US4847799A/en?oq=US4847799
+1987 https://patents.google.com/patent/US4847799A/en?oq=US4847799A
+1987 https://worldwide.espacenet.com/patent/search/family/006319648/publication/DE3702401A1?q=pn%3DDE3702401A1
+1987 https://worldwide.espacenet.com/patent/search/family/015925035/publication/JPS6414625A?q=pn%3DJPS6414625A NEC
+1987 https://worldwide.espacenet.com/patent/search/family/015925054/publication/JPS6414626A?q=pn%3DJPS6414626A NEC 
+1988 https://patents.google.com/patent/US4913573A/en?oq=US4913573A
+1989 https://patents.google.com/patent/US4974183A/en?oq=US4847799
 1989 https://patents.google.com/patent/US5119078A/en?oq=US5119078A
+1990 https://www.freepatentsonline.com/5160919.pdf
 1991 https://www.freepatentsonline.com/D345152.html Ergonomic computer keyboard 
 1992 https://patents.google.com/patent/US5302040A/en?oq=US5302040A
 1992 https://patents.google.com/patent/US5339097A/en?oq=US5339097A
 1992 https://patents.google.com/patent/US5673040A/en
 1992 https://patents.google.com/patent/WO1993018500A1/en?oq=WO1993018500A1
 1992 https://www.freepatentsonline.com/5122786.html Ergonomic keypads for desktop and armrest applications 
+1992 https://www.freepatentsonline.com/5156475.pdf
 1993 https://patents.google.com/patent/US5416498A/en?oq=US5416498A
 1993 https://www.freepatentsonline.com/5689253.html Ergonomic keyboard apparatus 
 1994 https://patents.google.com/patent/US5503484A/en
@@ -21,7 +60,9 @@ https://priorart.ip.com/IPCOM/000075287 IBM input keyboard
 1996 https://patents.google.com/patent/US5711624A/en
 1996 https://worldwide.espacenet.com/patent/search/family/010790664/publication/GB2311256B?q=pn%3DGB2311256B
 1996 https://www.freepatentsonline.com/5775822.html Ergonomic computer keyboard 
+1997 https://www.freepatentsonline.com/5673040.pdf
 1997 https://www.freepatentsonline.com/5971636.html optimized normal layout
+1998 https://patents.google.com/patent/US6084576A/en?oq=US6084576A
 2004 https://www.freepatentsonline.com/6712534.pdf ortho full size keyboard
 2011 https://www.freepatentsonline.com/8083424.pdf
 2012 https://www.freepatentsonline.com/8226308.pdf
