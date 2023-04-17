@@ -67,6 +67,22 @@ Images: None (because it is not a layout)
 
 ## 1910
 
+### 1910 US1083076A - Type-writing machine
+
+**Authors**: Oskar Fischer **Submission**: 1910-04-26 **Published**: 1913-12-30
+
+**Claims**: TODO
+
+**Notes**: I am not sure if this counts like some sort of ergonomic keyboard just yet. Oskar Fischer had a lot more patents about typewriters later in his life and those look more like ergonomic typewriters. Scrow down this list to see more of his work
+
+[PDF](files/patents/US1083076A.pdf) -
+[Google Patents](https://patents.google.com/patent/US1083076A/en) -
+[FreePatentsOnline](https://www.freepatentsonline.com/1083076.html) -
+[Espacenet](https://worldwide.espacenet.com/patent/search/family/003151307/publication/US1083076A?q=pn%3DUS1083076A)
+
+![From page 2](files/patents/US1083076A_001.png)
+
+
 ### 1914 US1138474A - Type-writing machine
 
 **Authors**: Fritz Heidner **Submission**: 1914-03-18 **Published**: 1915-05-04
