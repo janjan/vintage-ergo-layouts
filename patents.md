@@ -31,7 +31,7 @@ A lot of patents related to keyboards can be found here:
 
 ## 1890
 
-### 1896 US556422A - Machines
+### 1896 - US556422A - Machines
 
 **Authors**: Albrecht von Kunowski **Submission**: 1896-03-17 **Published**: 1896-03-17
 
@@ -48,7 +48,7 @@ My invention relates to an improved keyboard, in which both inconveniences are o
 ![From page 1](files/patents/US556422A_001.png)
 
 
-### 1898 US637334A - Type-writing machine
+### 1898 - US637334A - Type-writing machine
 
 **Authors**: Edward B Hess, Oluf Tyberg **Submission**: 1898-08-19 **Published**: 1899-11-21
 
@@ -67,7 +67,7 @@ Images: None (because it is not a layout)
 
 ## 1910
 
-### 1910 US1083076A - Type-writing machine
+### 1910 - US1083076A - Type-writing machine
 
 **Authors**: Oskar Fischer **Submission**: 1910-04-26 **Published**: 1913-12-30
 
@@ -83,7 +83,7 @@ Images: None (because it is not a layout)
 ![From page 2](files/patents/US1083076A_001.png)
 
 
-### 1914 US1138474A - Type-writing machine
+### 1914 - US1138474A - Type-writing machine
 
 **Authors**: Fritz Heidner **Submission**: 1914-03-18 **Published**: 1915-05-04
 
@@ -108,7 +108,7 @@ The novel arrangement of the keys is of great advantage from a hygienic point of
 
 ## 1920
 
-### 1922 US1598028A - Typewriter movement 
+### 1922 - US1598028A - Typewriter movement 
 
 **Authors**: Oluf Tyberg **Submission**: 1922-05-29 **Published**: 1926-08-31
 
@@ -125,7 +125,7 @@ The novel arrangement of the keys is of great advantage from a hygienic point of
 
 ![From page 3](files/patents/US1598028A_001.png)
 
-### 1924 US1553765A - Typewriting machine  
+### 1924 - US1553765A - Typewriting machine  
 
 **Authors**: Fischer Oskar **Submission**: 1924-01-25 **Published**: 1925-09-15
 
@@ -141,7 +141,7 @@ The novel arrangement of the keys is of great advantage from a hygienic point of
 ![From page 2](files/patents/US1553765A_001.png)
 
 
-### 1925 US1672354A - Power typewriter
+### 1925 - US1672354A - Power typewriter
 
 **Authors**: Oluf Tyberg **Submission**: 1925-03-06 **Published**: 1928-06-05
 
@@ -158,7 +158,7 @@ The novel arrangement of the keys is of great advantage from a hygienic point of
 
 
 
-### 1926 US1652464A - Typewriter keyboard
+### 1926 - US1652464A - Typewriter keyboard
 
 **Authors**: Oluf Tyberg **Submission**: 1926-02-08 **Published**: 1927-12-13
 
@@ -177,7 +177,7 @@ Another object is embodied in a new and useful grouping of the printing-keys, th
 
 ## 1930
 
-### 1932 US2040248A - Typewriter keyboard 
+### 1932 - US2040248A - Typewriter keyboard 
 
 **Authors**: Dvorak August, William L Dealey **Submission**: 1932-05-21 **Published**: 1936-05-12
 
@@ -198,7 +198,7 @@ Another object is embodied in a new and useful grouping of the printing-keys, th
 
 ## 1960
 
-### 1963 DE1279693B / GB1016993A - In zwei spiegelbildliche Felder unterteilte Normentastatur
+### 1963 - DE1279693B / GB1016993A - In zwei spiegelbildliche Felder unterteilte Normentastatur
 
 **Authors**: Jim Ladue, Werner Seydel **Company**: IBM **Submission**: 1963-09-28 **Published**: 1968-10-10
 
@@ -222,11 +222,11 @@ Another object is embodied in a new and useful grouping of the printing-keys, th
 ## 1970
 
 
-### 1073 US3929216A - Input keyboards 
+### 1973 - US3929216A - Input keyboards 
 
 **Authors**: Harvey Einbinder **Submission**: 1973-09-04 **Published**: 1975-12-30
 
-**Claims**: " The keyboards are split into rotated halves containing curved key rows and slanted key tops of variable height **to follow the architecture of the hand**."
+**Claims**: "The keyboards are split into rotated halves containing curved key rows and slanted key tops of variable height **to follow the architecture of the hand**."
 
 **Notes**: Todo
 
@@ -240,7 +240,7 @@ Another object is embodied in a new and useful grouping of the printing-keys, th
 ## 1980
 
 
-### 1984 US4579470A - Keyboard with keys concentrated in clusters 
+### 1984 - US4579470A - Keyboard with keys concentrated in clusters 
 
 **Authors**: Cullen Casey **Submission**: 1984-04-11 **Published**: 1986-04-01
 
@@ -255,7 +255,7 @@ Another object is embodied in a new and useful grouping of the printing-keys, th
 ![From page 3](files/patents/US4579470A_001.png)
 
 
-### 1986 US5017030A - Ergonomically designed keyboard 
+### 1986 - US5017030A - Ergonomically designed keyboard 
 
 **Authors**: Jay A. Crews **Submission**: 1986-07-07 **Published**: 1991-05-21
 
@@ -272,7 +272,7 @@ Another object is embodied in a new and useful grouping of the printing-keys, th
 
 ## 1990
 
-### 1992 - WO1993007738A2 US5716149A US5971636A - Ergonomically improved standard keyboard 
+### 1992 - - WO1993007738A2 US5716149A US5971636A - Ergonomically improved standard keyboard 
 
 **Authors**: John Mensick **Submission**: 1992-10-22 **Published**: 1993-04-29
 
@@ -290,7 +290,7 @@ Another object is embodied in a new and useful grouping of the printing-keys, th
 ![From page 3](files/patents/US5971636A_001.png)
 
 
-### 1994 US5476332A - Symmetrical keyboard apparatus 
+### 1994 - US5476332A - Symmetrical keyboard apparatus 
 
 **Authors**: Ralph H. Cleveland, Jr. **Submission**: 1994-05-31 **Published**: 1995-12-19
 
