@@ -27,7 +27,9 @@ A lot of patents related to keyboards can be found here:
 * https://deskthority.net/wiki/Orthogonal_input_keyboards#cite_note-1
 
 
-## Patents
+# Patents
+
+## 1890
 
 ### 1898 US637334A - Type-writing machine
 
@@ -44,6 +46,11 @@ A lot of patents related to keyboards can be found here:
 
 Images: None (because it is not a layout)
 
+## 1900
+
+## 1910
+
+## 1920
 
 ### 1922 US1598028A - Typewriter movement 
 
@@ -96,6 +103,20 @@ Another object is embodied in a new and useful grouping of the printing-keys, th
 [Espacenet](https://worldwide.espacenet.com/patent/search/family/022201098/publication/US1652464A?q=pn%3DUS1652464A)
 
 ![From page 1](files/patents/US1652464A_001.png)
+
+## 1930
+
+## 1940
+
+## 1950
+
+## 1960
+
+## 1970
+
+## 1980
+
+## 1990
 
 
 ### 1994 US5476332A - Symmetrical keyboard apparatus 
