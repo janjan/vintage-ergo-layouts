@@ -237,6 +237,22 @@ Another object is embodied in a new and useful grouping of the printing-keys, th
 ![From page 2](files/patents/US3929216A_001.png)
 
 
+### 1973 - US3945482A - Orthogonal input keyboards 
+
+**Authors**: Harvey Einbinder **Submission**: 1973-12-14 **Published**: 1976-03-23
+
+**Claims**: "Orthogonal ten-finger keyboards are disclosed for typewriters, computer terminals, and other devices processing alphanumeric information that maximize entry rates and stroking accuracy-and minimize finger motions and the time needed to master the keyboard."
+
+**Notes**: Also mentioned on the Deskthority Wiki: https://deskthority.net/wiki/Orthogonal_input_keyboards
+
+[PDF](files/patents/US3945482A.pdf) -
+[Google Patents](https://patents.google.com/patent/US3945482A/en) -
+[FreePatentsOnline](https://www.freepatentsonline.com/3945482.html) -
+[Espacenet](https://worldwide.espacenet.com/patent/search/family/023683917/publication/US3945482A?q=pn%3DUS3945482A)
+
+![From page 2](files/patents/US3945482A_001.png)
+
+
 ## 1980
 
 
