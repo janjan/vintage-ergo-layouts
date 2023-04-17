@@ -175,7 +175,24 @@ Another object is embodied in a new and useful grouping of the printing-keys, th
 
 ## 1970
 
+
 ## 1980
+
+
+### 1986 US5017030A - Ergonomically designed keyboard 
+
+**Authors**: Jay A. Crews **Submission**: 1986-07-07 **Published**: 1991-05-21
+
+**Claims**: "A keyboard usable on a typewriter or a computer terminal and configured in accordance with ergonomic principles uses chording of one thumb and one finger to type the characters of the English alphabet. The keyboard includes right and left preloaded palm pads which are shaped and contoured to fit the hands. The palm pads support the hands and operate the SHIFT and SHIFT LOCK functions."
+
+**Notes**: This is not a classic ergonomic keyboard layout but uses the combination of several key presses to creates letters
+
+[PDF](files/patents/US5017030A.pdf) -
+[Google Patents](https://patents.google.com/patent/US5017030A/en) -
+[Espacenet](https://worldwide.espacenet.com/patent/search/family/025381006/publication/US5017030A?q=pn%3DUS5017030A)
+
+![From page 3](files/patents/US5017030A_001.png)
+
 
 ## 1990
 
