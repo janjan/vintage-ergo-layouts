@@ -26,6 +26,8 @@ A lot of patents related to keyboards can be found here:
 
 * https://deskthority.net/wiki/Orthogonal_input_keyboards#cite_note-1
 
+* https://deskthority.net/wiki/Category:Patents
+
 
 # Patents
 
