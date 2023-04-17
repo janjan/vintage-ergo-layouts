@@ -222,6 +222,21 @@ Another object is embodied in a new and useful grouping of the printing-keys, th
 ## 1970
 
 
+### 1073 US3929216A - Input keyboards 
+
+**Authors**: Harvey Einbinder **Submission**: 1973-09-04 **Published**: 1975-12-30
+
+**Claims**: " The keyboards are split into rotated halves containing curved key rows and slanted key tops of variable height **to follow the architecture of the hand**."
+
+**Notes**: Todo
+
+[PDF](files/patents/US3929216A.pdf) -
+[Google Patents](https://patents.google.com/patent/US3929216A/en) -
+[Espacenet](https://worldwide.espacenet.com/patent/search/family/023559289/publication/US3929216A?q=pn%3DUS3929216A)
+
+![From page 2](files/patents/US3929216A_001.png)
+
+
 ## 1980
 
 
