@@ -194,6 +194,26 @@ Another object is embodied in a new and useful grouping of the printing-keys, th
 
 ![From page 1](files/patents/US2040248A_001.png)
 
+
+### 1934 - US2102526A - Typewriting machine 
+
+**Authors**: Frederick M Guilfoyle **Submission**: 1934-01-18 **Published**: 1937-12-14
+
+**Claims**: This patent has two claims: 1) the height of the keycaps is related to the shortness of the fingers. This concept can be seen on the first image below. 2) It uses a symmetric row stagger which can be seen in the second image below. Regarding the stagger it is written:
+
+"In this figure the keys are arranged in five rearwardly and inwardly inclined rows on each side of the key board, whereas three seldom used keys, are arranged between the two above mentioned groups of keys and in the inverted V-shaped space between them. This arrangement of the keys facilitates the operation thereof since it accords more nearly with the natural and unstrained position of the hands of the operator over the key board and with the movements of the hands and fingers."
+
+**Notes**: Guilfoyle says that he is is not the inventor of this but that his implementation. However "[...] prior constructions involved special and freakish arrangements of the keys in the key board and the prior constructions could not be embodied in a standard or universal key board, such as is almost universally employed intypewriting machines at the present time.". Therefore he thinks that his implementation is more reasonable
+
+[PDF](files/patents/US2102526A.pdf) -
+[Google Patents](https://patents.google.com/patent/US2102526A/en) -
+[FreePatentsOnline](https://www.freepatentsonline.com/2102526.html) -
+[Espacenet](https://worldwide.espacenet.com/patent/search/family/024840660/publication/US2102526A?q=pn%3DUS2102526A)
+
+![From page 1](files/patents/US2102526A_001.png)
+
+![From page 2](files/patents/US2102526A_002.png)
+
 ## 1940
 
 ## 1950
