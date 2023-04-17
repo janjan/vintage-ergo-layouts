@@ -31,6 +31,23 @@ A lot of patents related to keyboards can be found here:
 
 ## 1890
 
+### 1896 US556422A - Machines
+
+**Authors**: Albrecht von Kunowski **Submission**: 1896-03-17 **Published**: 1896-03-17
+
+**Claims**: "The keyboards for type-writing machines commonly used have the disadvantage that on account of the rectangular or semicircular shape of the board in actuating the type-writing machine the lower arm has to be shifted, because the keys cannot be reached by the sole movement of the fingers while the arm is at rest. This disadvantage is avoided in the so-called stenographic type -writing machines, in which the keys are arranged in two curved lines symmetrically to the center line of the keyboard. Arrangements of this kind, however, permit of employing only a comparatively restricted number of keys and therefore cannot be used for ordinary typewriting machines.
+
+My invention relates to an improved keyboard, in which both inconveniences are obviated by arranging the keys in four curved lines, which I call guiding-lines, the two innermost of which are the guiding-lines of the thumbsand correspond to a curve described by the point of the thumb when spreading it away from the hand."
+
+**Notes**: I am not sure if this is truly for a typewriter or more for a stenographic machine
+
+[PDF](files/patents/US556422A.pdf) -
+[Google Patents](https://patents.google.com/patent/US556422A/en) -
+[Espacenet](https://worldwide.espacenet.com/patent/search/family/002625159/publication/US556422A?q=pn%3DUS556422A)
+
+![From page 1](files/patents/US556422A_001.png)
+
+
 ### 1898 US637334A - Type-writing machine
 
 **Authors**: Edward B Hess, Oluf Tyberg **Submission**: 1898-08-19 **Published**: 1899-11-21
