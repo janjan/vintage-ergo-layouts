@@ -288,6 +288,21 @@ Another object is embodied in a new and useful grouping of the printing-keys, th
 ![From page 3](files/patents/US4579470A_001.png)
 
 
+### 1985 - US4669903A - Bio-mechanical keyboard structure and method  
+
+**Authors**: Stuart Herzog, Barbara Herzog **Submission**: 1985-04-23 **Published**: 1987-06-02
+
+**Claims**: "An improved keyboard for computer terminals, computer input devices, word processors, typewriters and any other operating or simulator keyboard is disclosed in which selected keys of the keyboard are selectively positioned and aligned to enable a proper alignment of the left forearm and left hand from elbow to fingertips for the keys that are operated by the left hand, and to enable fast, accurate, unobstructed and comfortable movement of the fingers of the left hand;"
+
+**Notes**: Symmetric row stagger
+
+[PDF](files/patents/US4669903A.pdf) -
+[Google Patents](https://patents.google.com/patent/US4669903A/en) -
+[Espacenet](https://worldwide.espacenet.com/patent/search/family/024918465/publication/US4669903A?q=pn%3DUS4669903A)
+
+![From page 3](files/patents/US4669903A_001.png)
+
+
 ### 1986 - US5017030A - Ergonomically designed keyboard 
 
 **Authors**: Jay A. Crews **Submission**: 1986-07-07 **Published**: 1991-05-21
