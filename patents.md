@@ -308,7 +308,7 @@ Another object is embodied in a new and useful grouping of the printing-keys, th
 ![From page 3](files/patents/US5971636A_001.png)
 
 
-### 1994 - US5476332A - Symmetrical keyboard apparatus 
+### 1994 - US5476332A WO9532868A1 - Symmetrical keyboard apparatus 
 
 **Authors**: Ralph H. Cleveland, Jr. **Submission**: 1994-05-31 **Published**: 1995-12-19
 
