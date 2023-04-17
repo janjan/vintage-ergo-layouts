@@ -179,6 +179,21 @@ Another object is embodied in a new and useful grouping of the printing-keys, th
 ## 1980
 
 
+### 1984 US4579470A - Keyboard with keys concentrated in clusters 
+
+**Authors**: Cullen Casey **Submission**: 1984-04-11 **Published**: 1986-04-01
+
+**Claims**: "A keyboard usable on a typewriter or a computer terminal and configured in accordance with ergonomic principles uses chording of one thumb and one finger to type the characters of the English alphabet. The keyboard includes right and left preloaded palm pads which are shaped and contoured to fit the hands. The palm pads support the hands and operate the SHIFT and SHIFT LOCK functions."
+
+**Notes**: This is not a classic ergonomic keyboard layout but uses the combination of several key presses to creates letters
+
+[PDF](files/patents/US4579470A.pdf) -
+[Google Patents](https://patents.google.com/patent/US4579470A/) -
+[Espacenet](https://worldwide.espacenet.com/patent/search/family/024398020/publication/US4579470A?q=pn%3DUS4579470A)
+
+![From page 3](files/patents/US4579470A_001.png)
+
+
 ### 1986 US5017030A - Ergonomically designed keyboard 
 
 **Authors**: Jay A. Crews **Submission**: 1986-07-07 **Published**: 1991-05-21
